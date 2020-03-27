@@ -1,8 +1,5 @@
 #Author: Islam Hani Awad
 #Job: Student at FCAI faculty, Cairo University
-#About: X-O Game
-#Description: You can play this game with your friend or with computer. X_O game, A board of 3 x 3 is displayed and one player choses X and the other \nchooses O. Players take turns to put their symbols in an empty cell. The first \nto get one full row, column or diagonal full of his symbol wins. If none does so, it is a draw.
-
 
 from random import randint
 
